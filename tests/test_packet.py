@@ -19,6 +19,22 @@ class PacketTest(unittest.TestCase):
             self.assertTrue(len({(row['year'],row['region']) for row in doc['scenarios'] if row['id']==scenario}) == 14)
         self.assertTrue({row['house'] for row in doc['support']}=={row['house'] for row in doc['parcels']})
 
+    def test_complete_history_covers_the_renewal_horizon(self):
+        packet = read_packet(Path("资料/演练.json"))
+        start, end = packet['pool']['horizon']
+        support = {}
+        for row in packet['history']:
+            if row['final']:
+                key = row['region'], row['root'], row['scion'], row['year'] - row['planted']
+                support.setdefault(key, set()).add(row['orchard'])
+        for root in ('R1', 'R2'):
+            self.assertTrue(all(len(support['east', root, 'S1', age]) >= packet['pool']['min_analogs']
+                                for age in range(end - start + 1)))
+        quotes = [row for row in packet['commitments'] if row['kind'] == 'quote']
+        stock = {row['lot']: row['count'] for row in packet['stock']}
+        self.assertTrue(any(sum(row['count'] for row in quotes if row['lot'] == lot) > count
+                            for lot, count in stock.items()))
+
     def test_reject_wrong_container(self):
         with TemporaryDirectory() as folder:
             packet = Path(folder) / "unexpected.json"
