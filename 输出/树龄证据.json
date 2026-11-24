@@ -1,0 +1,5021 @@
+{
+  "min_analogs": 3,
+  "evidence": [
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 0,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 18.0,
+        "min": 14.0,
+        "max": 62.5
+      },
+      "revenue_per_mu": {
+        "median": 90.0,
+        "min": 70.0,
+        "max": 312.5
+      },
+      "cost_per_mu": {
+        "median": 914.0,
+        "min": 900.0,
+        "max": 938.5
+      },
+      "analogs": [
+        {
+          "orchard": "O3",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 62.5,
+          "revenue_per_mu": 312.5,
+          "cost_per_mu": 900.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2017,
+          "age": 0,
+          "kg_per_mu": 18.5,
+          "revenue_per_mu": 92.5,
+          "cost_per_mu": 901.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2018,
+          "age": 0,
+          "kg_per_mu": 14.0,
+          "revenue_per_mu": 70.0,
+          "cost_per_mu": 938.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 17.5,
+          "revenue_per_mu": 87.5,
+          "cost_per_mu": 926.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 1,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 134.5,
+        "min": 111.5,
+        "max": 220.0
+      },
+      "revenue_per_mu": {
+        "median": 672.5,
+        "min": 557.5,
+        "max": 1100.0
+      },
+      "cost_per_mu": {
+        "median": 968.5,
+        "min": 955.0,
+        "max": 989.5
+      },
+      "analogs": [
+        {
+          "orchard": "O3",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 111.5,
+          "revenue_per_mu": 557.5,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 220.0,
+          "revenue_per_mu": 1100.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2018,
+          "age": 1,
+          "kg_per_mu": 138.0,
+          "revenue_per_mu": 690.0,
+          "cost_per_mu": 989.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 134.5,
+          "revenue_per_mu": 672.5,
+          "cost_per_mu": 978.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 130.5,
+          "revenue_per_mu": 652.5,
+          "cost_per_mu": 968.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 2,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 311.5,
+        "min": 265.5,
+        "max": 357.5
+      },
+      "revenue_per_mu": {
+        "median": 1557.5,
+        "min": 1327.5,
+        "max": 1787.5
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1004.0,
+        "max": 1043.0
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 265.5,
+          "revenue_per_mu": 1327.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O3",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 310.0,
+          "revenue_per_mu": 1550.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 302.5,
+          "revenue_per_mu": 1512.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 320.5,
+          "revenue_per_mu": 1602.5,
+          "cost_per_mu": 1011.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 313.0,
+          "revenue_per_mu": 1565.0,
+          "cost_per_mu": 1043.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 357.5,
+          "revenue_per_mu": 1787.5,
+          "cost_per_mu": 1004.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 3,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 501.25,
+        "min": 440.0,
+        "max": 574.5
+      },
+      "revenue_per_mu": {
+        "median": 2506.25,
+        "min": 2200.0,
+        "max": 2872.5
+      },
+      "cost_per_mu": {
+        "median": 1076.5,
+        "min": 1065.0,
+        "max": 1098.0
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 483.5,
+          "revenue_per_mu": 2417.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O3",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 440.0,
+          "revenue_per_mu": 2200.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 536.0,
+          "revenue_per_mu": 2680.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 574.5,
+          "revenue_per_mu": 2872.5,
+          "cost_per_mu": 1088.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 497.5,
+          "revenue_per_mu": 2487.5,
+          "cost_per_mu": 1098.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 505.0,
+          "revenue_per_mu": 2525.0,
+          "cost_per_mu": 1089.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 4,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 681.75,
+        "min": 617.0,
+        "max": 795.0
+      },
+      "revenue_per_mu": {
+        "median": 3191.25,
+        "min": 1915.5,
+        "max": 3885.0
+      },
+      "cost_per_mu": {
+        "median": 1119.5,
+        "min": 1103.5,
+        "max": 1120.0
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2021,
+          "age": 4,
+          "kg_per_mu": 659.5,
+          "revenue_per_mu": 3297.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "O3",
+          "year": 2023,
+          "age": 4,
+          "kg_per_mu": 638.5,
+          "revenue_per_mu": 1915.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2022,
+          "age": 4,
+          "kg_per_mu": 617.0,
+          "revenue_per_mu": 3085.0,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2021,
+          "age": 4,
+          "kg_per_mu": 704.0,
+          "revenue_per_mu": 3520.0,
+          "cost_per_mu": 1104.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2022,
+          "age": 4,
+          "kg_per_mu": 777.0,
+          "revenue_per_mu": 3885.0,
+          "cost_per_mu": 1119.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2023,
+          "age": 4,
+          "kg_per_mu": 795.0,
+          "revenue_per_mu": 2385.0,
+          "cost_per_mu": 1103.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 5,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 894.0,
+        "min": 731.5,
+        "max": 1038.0
+      },
+      "revenue_per_mu": {
+        "median": 3985.0,
+        "min": 2194.5,
+        "max": 5190.0
+      },
+      "cost_per_mu": {
+        "median": 1175.0,
+        "min": 1160.0,
+        "max": 1196.5
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2022,
+          "age": 5,
+          "kg_per_mu": 806.0,
+          "revenue_per_mu": 4030.0,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "O3",
+          "year": 2024,
+          "age": 5,
+          "kg_per_mu": 788.0,
+          "revenue_per_mu": 3940.0,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2023,
+          "age": 5,
+          "kg_per_mu": 731.5,
+          "revenue_per_mu": 2194.5,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2022,
+          "age": 5,
+          "kg_per_mu": 1038.0,
+          "revenue_per_mu": 5190.0,
+          "cost_per_mu": 1160.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2023,
+          "age": 5,
+          "kg_per_mu": 1001.5,
+          "revenue_per_mu": 3004.5,
+          "cost_per_mu": 1196.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2024,
+          "age": 5,
+          "kg_per_mu": 982.0,
+          "revenue_per_mu": 4910.0,
+          "cost_per_mu": 1192.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 6,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1038.75,
+        "min": 884.0,
+        "max": 1163.5
+      },
+      "revenue_per_mu": {
+        "median": 3337.5,
+        "min": 2652.0,
+        "max": 5817.5
+      },
+      "cost_per_mu": {
+        "median": 1239.75,
+        "min": 1230.0,
+        "max": 1252.5
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2023,
+          "age": 6,
+          "kg_per_mu": 1002.5,
+          "revenue_per_mu": 3007.5,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "O3",
+          "year": 2025,
+          "age": 6,
+          "kg_per_mu": 884.0,
+          "revenue_per_mu": 2652.0,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2024,
+          "age": 6,
+          "kg_per_mu": 899.5,
+          "revenue_per_mu": 4497.5,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-1",
+          "year": 2023,
+          "age": 6,
+          "kg_per_mu": 1075.0,
+          "revenue_per_mu": 3225.0,
+          "cost_per_mu": 1249.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-2",
+          "year": 2024,
+          "age": 6,
+          "kg_per_mu": 1163.5,
+          "revenue_per_mu": 5817.5,
+          "cost_per_mu": 1252.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R1-S1-3",
+          "year": 2025,
+          "age": 6,
+          "kg_per_mu": 1150.0,
+          "revenue_per_mu": 3450.0,
+          "cost_per_mu": 1250.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 7,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1116.75,
+        "min": 1086.5,
+        "max": 1147.0
+      },
+      "revenue_per_mu": {
+        "median": 4497.25,
+        "min": 3259.5,
+        "max": 5735.0
+      },
+      "cost_per_mu": {
+        "median": 1285.0,
+        "min": 1285.0,
+        "max": 1285.0
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2024,
+          "age": 7,
+          "kg_per_mu": 1147.0,
+          "revenue_per_mu": 5735.0,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        },
+        {
+          "orchard": "O9",
+          "year": 2025,
+          "age": 7,
+          "kg_per_mu": 1086.5,
+          "revenue_per_mu": 3259.5,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O3",
+          "year": 2026,
+          "age": 7,
+          "kg_per_mu": 1158.5,
+          "revenue_per_mu": 5792.5
+        }
+      ]
+    },
+    {
+      "region": "east",
+      "root": "R1",
+      "scion": "S1",
+      "age": 8,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1309.0,
+        "min": 1309.0,
+        "max": 1309.0
+      },
+      "revenue_per_mu": {
+        "median": 3927.0,
+        "min": 3927.0,
+        "max": 3927.0
+      },
+      "cost_per_mu": {
+        "median": 1340.0,
+        "min": 1340.0,
+        "max": 1340.0
+      },
+      "analogs": [
+        {
+          "orchard": "O15",
+          "year": 2025,
+          "age": 8,
+          "kg_per_mu": 1309.0,
+          "revenue_per_mu": 3927.0,
+          "cost_per_mu": 1340.0,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O9",
+          "year": 2026,
+          "age": 8,
+          "kg_per_mu": 1255.0,
+          "revenue_per_mu": 6275.0
+        }
+      ]
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 0,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 24.25,
+        "min": 19.0,
+        "max": 50.0
+      },
+      "revenue_per_mu": {
+        "median": 121.25,
+        "min": 95.0,
+        "max": 250.0
+      },
+      "cost_per_mu": {
+        "median": 921.75,
+        "min": 900.0,
+        "max": 948.0
+      },
+      "analogs": [
+        {
+          "orchard": "O13",
+          "year": 2022,
+          "age": 0,
+          "kg_per_mu": 50.0,
+          "revenue_per_mu": 250.0,
+          "cost_per_mu": 900.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2017,
+          "age": 0,
+          "kg_per_mu": 22.5,
+          "revenue_per_mu": 112.5,
+          "cost_per_mu": 948.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2018,
+          "age": 0,
+          "kg_per_mu": 19.0,
+          "revenue_per_mu": 95.0,
+          "cost_per_mu": 926.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 26.0,
+          "revenue_per_mu": 130.0,
+          "cost_per_mu": 917.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 1,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 131.25,
+        "min": 125.5,
+        "max": 170.0
+      },
+      "revenue_per_mu": {
+        "median": 630.0,
+        "min": 510.0,
+        "max": 680.0
+      },
+      "cost_per_mu": {
+        "median": 957.25,
+        "min": 948.5,
+        "max": 961.0
+      },
+      "analogs": [
+        {
+          "orchard": "O13",
+          "year": 2023,
+          "age": 1,
+          "kg_per_mu": 170.0,
+          "revenue_per_mu": 510.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2018,
+          "age": 1,
+          "kg_per_mu": 136.0,
+          "revenue_per_mu": 680.0,
+          "cost_per_mu": 948.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 126.5,
+          "revenue_per_mu": 632.5,
+          "cost_per_mu": 961.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 125.5,
+          "revenue_per_mu": 627.5,
+          "cost_per_mu": 959.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 2,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 315.5,
+        "min": 215.0,
+        "max": 357.0
+      },
+      "revenue_per_mu": {
+        "median": 1577.5,
+        "min": 1075.0,
+        "max": 1785.0
+      },
+      "cost_per_mu": {
+        "median": 1033.0,
+        "min": 1010.0,
+        "max": 1043.5
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 317.5,
+          "revenue_per_mu": 1587.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O13",
+          "year": 2024,
+          "age": 2,
+          "kg_per_mu": 357.0,
+          "revenue_per_mu": 1785.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 215.0,
+          "revenue_per_mu": 1075.0,
+          "cost_per_mu": 1043.5,
+          "amended": true
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 315.5,
+          "revenue_per_mu": 1577.5,
+          "cost_per_mu": 1036.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 306.5,
+          "revenue_per_mu": 1532.5,
+          "cost_per_mu": 1033.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 3,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 511.75,
+        "min": 403.0,
+        "max": 534.0
+      },
+      "revenue_per_mu": {
+        "median": 2522.5,
+        "min": 1543.5,
+        "max": 2670.0
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1053.5,
+        "max": 1073.0
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 403.0,
+          "revenue_per_mu": 2015.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O13",
+          "year": 2025,
+          "age": 3,
+          "kg_per_mu": 514.5,
+          "revenue_per_mu": 1543.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O7",
+          "year": 2019,
+          "age": 3,
+          "kg_per_mu": 526.5,
+          "revenue_per_mu": 2632.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 534.0,
+          "revenue_per_mu": 2670.0,
+          "cost_per_mu": 1073.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 509.0,
+          "revenue_per_mu": 2545.0,
+          "cost_per_mu": 1053.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 500.0,
+          "revenue_per_mu": 2500.0,
+          "cost_per_mu": 1067.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 4,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 724.5,
+        "min": 594.0,
+        "max": 811.0
+      },
+      "revenue_per_mu": {
+        "median": 3337.5,
+        "min": 2212.5,
+        "max": 4055.0
+      },
+      "cost_per_mu": {
+        "median": 1120.0,
+        "min": 1112.0,
+        "max": 1149.0
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2021,
+          "age": 4,
+          "kg_per_mu": 667.5,
+          "revenue_per_mu": 3337.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "O7",
+          "year": 2020,
+          "age": 4,
+          "kg_per_mu": 594.0,
+          "revenue_per_mu": 2970.0,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2021,
+          "age": 4,
+          "kg_per_mu": 811.0,
+          "revenue_per_mu": 4055.0,
+          "cost_per_mu": 1113.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2022,
+          "age": 4,
+          "kg_per_mu": 724.5,
+          "revenue_per_mu": 3622.5,
+          "cost_per_mu": 1149.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2023,
+          "age": 4,
+          "kg_per_mu": 737.5,
+          "revenue_per_mu": 2212.5,
+          "cost_per_mu": 1112.0,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O13",
+          "year": 2026,
+          "age": 4,
+          "kg_per_mu": 577.5,
+          "revenue_per_mu": 2887.5
+        }
+      ]
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 5,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 938.5,
+        "min": 746.5,
+        "max": 1096.0
+      },
+      "revenue_per_mu": {
+        "median": 4147.5,
+        "min": 3288.0,
+        "max": 4992.5
+      },
+      "cost_per_mu": {
+        "median": 1184.5,
+        "min": 1175.0,
+        "max": 1193.5
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2022,
+          "age": 5,
+          "kg_per_mu": 829.5,
+          "revenue_per_mu": 4147.5,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "O7",
+          "year": 2021,
+          "age": 5,
+          "kg_per_mu": 746.5,
+          "revenue_per_mu": 3732.5,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2022,
+          "age": 5,
+          "kg_per_mu": 938.5,
+          "revenue_per_mu": 4692.5,
+          "cost_per_mu": 1187.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2023,
+          "age": 5,
+          "kg_per_mu": 1096.0,
+          "revenue_per_mu": 3288.0,
+          "cost_per_mu": 1184.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2024,
+          "age": 5,
+          "kg_per_mu": 998.5,
+          "revenue_per_mu": 4992.5,
+          "cost_per_mu": 1193.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 6,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1098.5,
+        "min": 894.5,
+        "max": 1212.0
+      },
+      "revenue_per_mu": {
+        "median": 3636.0,
+        "min": 2683.5,
+        "max": 5790.0
+      },
+      "cost_per_mu": {
+        "median": 1239.0,
+        "min": 1230.0,
+        "max": 1261.5
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2023,
+          "age": 6,
+          "kg_per_mu": 894.5,
+          "revenue_per_mu": 2683.5,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "O7",
+          "year": 2022,
+          "age": 6,
+          "kg_per_mu": 948.0,
+          "revenue_per_mu": 4740.0,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-1",
+          "year": 2023,
+          "age": 6,
+          "kg_per_mu": 1098.5,
+          "revenue_per_mu": 3295.5,
+          "cost_per_mu": 1261.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-2",
+          "year": 2024,
+          "age": 6,
+          "kg_per_mu": 1158.0,
+          "revenue_per_mu": 5790.0,
+          "cost_per_mu": 1239.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-R2-S1-3",
+          "year": 2025,
+          "age": 6,
+          "kg_per_mu": 1212.0,
+          "revenue_per_mu": 3636.0,
+          "cost_per_mu": 1239.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 7,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1084.75,
+        "min": 1027.0,
+        "max": 1142.5
+      },
+      "revenue_per_mu": {
+        "median": 4281.25,
+        "min": 3427.5,
+        "max": 5135.0
+      },
+      "cost_per_mu": {
+        "median": 1285.0,
+        "min": 1285.0,
+        "max": 1285.0
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2024,
+          "age": 7,
+          "kg_per_mu": 1027.0,
+          "revenue_per_mu": 5135.0,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        },
+        {
+          "orchard": "O7",
+          "year": 2023,
+          "age": 7,
+          "kg_per_mu": 1142.5,
+          "revenue_per_mu": 3427.5,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 8,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 827.75,
+        "min": 430.0,
+        "max": 1225.5
+      },
+      "revenue_per_mu": {
+        "median": 5024.25,
+        "min": 3921.0,
+        "max": 6127.5
+      },
+      "cost_per_mu": {
+        "median": 1340.0,
+        "min": 1340.0,
+        "max": 1340.0
+      },
+      "analogs": [
+        {
+          "orchard": "O1",
+          "year": 2025,
+          "age": 8,
+          "kg_per_mu": 430.0,
+          "revenue_per_mu": 3921.0,
+          "cost_per_mu": 1340.0,
+          "amended": true
+        },
+        {
+          "orchard": "O7",
+          "year": 2024,
+          "age": 8,
+          "kg_per_mu": 1225.5,
+          "revenue_per_mu": 6127.5,
+          "cost_per_mu": 1340.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R2",
+      "scion": "S1",
+      "age": 9,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1363.5,
+        "min": 1363.5,
+        "max": 1363.5
+      },
+      "revenue_per_mu": {
+        "median": 4090.5,
+        "min": 4090.5,
+        "max": 4090.5
+      },
+      "cost_per_mu": {
+        "median": 1395.0,
+        "min": 1395.0,
+        "max": 1395.0
+      },
+      "analogs": [
+        {
+          "orchard": "O7",
+          "year": 2025,
+          "age": 9,
+          "kg_per_mu": 1363.5,
+          "revenue_per_mu": 4090.5,
+          "cost_per_mu": 1395.0,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O1",
+          "year": 2026,
+          "age": 9,
+          "kg_per_mu": 1373.0,
+          "revenue_per_mu": 6865.0
+        }
+      ]
+    },
+    {
+      "region": "east",
+      "root": "R3",
+      "scion": "S1",
+      "age": 0,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 0.0,
+        "min": 0.0,
+        "max": 27.5
+      },
+      "revenue_per_mu": {
+        "median": 0.0,
+        "min": 0.0,
+        "max": 137.5
+      },
+      "cost_per_mu": {
+        "median": 900.0,
+        "min": 900.0,
+        "max": 900.0
+      },
+      "analogs": [
+        {
+          "orchard": "O11",
+          "year": 2020,
+          "age": 0,
+          "kg_per_mu": 27.5,
+          "revenue_per_mu": 137.5,
+          "cost_per_mu": 900.0,
+          "amended": false
+        },
+        {
+          "orchard": "O17",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 0.0,
+          "revenue_per_mu": 0.0,
+          "cost_per_mu": 900.0,
+          "amended": false
+        },
+        {
+          "orchard": "O5",
+          "year": 2021,
+          "age": 0,
+          "kg_per_mu": 0.0,
+          "revenue_per_mu": 0.0,
+          "cost_per_mu": 900.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R3",
+      "scion": "S1",
+      "age": 1,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 152.5,
+        "min": 94.0,
+        "max": 173.0
+      },
+      "revenue_per_mu": {
+        "median": 762.5,
+        "min": 470.0,
+        "max": 865.0
+      },
+      "cost_per_mu": {
+        "median": 955.0,
+        "min": 955.0,
+        "max": 955.0
+      },
+      "analogs": [
+        {
+          "orchard": "O11",
+          "year": 2021,
+          "age": 1,
+          "kg_per_mu": 173.0,
+          "revenue_per_mu": 865.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "O17",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 94.0,
+          "revenue_per_mu": 470.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "O5",
+          "year": 2022,
+          "age": 1,
+          "kg_per_mu": 152.5,
+          "revenue_per_mu": 762.5,
+          "cost_per_mu": 955.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R3",
+      "scion": "S1",
+      "age": 2,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 309.0,
+        "min": 284.0,
+        "max": 312.0
+      },
+      "revenue_per_mu": {
+        "median": 1545.0,
+        "min": 852.0,
+        "max": 1560.0
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O11",
+          "year": 2022,
+          "age": 2,
+          "kg_per_mu": 309.0,
+          "revenue_per_mu": 1545.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O17",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 312.0,
+          "revenue_per_mu": 1560.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O5",
+          "year": 2023,
+          "age": 2,
+          "kg_per_mu": 284.0,
+          "revenue_per_mu": 852.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "R3",
+      "scion": "S1",
+      "age": 3,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 525.0,
+        "min": 447.0,
+        "max": 539.0
+      },
+      "revenue_per_mu": {
+        "median": 2625.0,
+        "min": 1341.0,
+        "max": 2695.0
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O11",
+          "year": 2023,
+          "age": 3,
+          "kg_per_mu": 447.0,
+          "revenue_per_mu": 1341.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O17",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 539.0,
+          "revenue_per_mu": 2695.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O5",
+          "year": 2024,
+          "age": 3,
+          "kg_per_mu": 525.0,
+          "revenue_per_mu": 2625.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 13,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1188.0,
+        "min": 1188.0,
+        "max": 1188.0
+      },
+      "revenue_per_mu": {
+        "median": 5940.0,
+        "min": 5940.0,
+        "max": 5940.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O23",
+          "year": 2019,
+          "age": 13,
+          "kg_per_mu": 1188.0,
+          "revenue_per_mu": 5940.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 14,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1235.0,
+        "min": 1235.0,
+        "max": 1235.0
+      },
+      "revenue_per_mu": {
+        "median": 6175.0,
+        "min": 6175.0,
+        "max": 6175.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O23",
+          "year": 2020,
+          "age": 14,
+          "kg_per_mu": 1235.0,
+          "revenue_per_mu": 6175.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 15,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1192.0,
+        "min": 1181.0,
+        "max": 1287.5
+      },
+      "revenue_per_mu": {
+        "median": 5960.0,
+        "min": 5905.0,
+        "max": 6437.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O21",
+          "year": 2019,
+          "age": 15,
+          "kg_per_mu": 1192.0,
+          "revenue_per_mu": 5960.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O23",
+          "year": 2021,
+          "age": 15,
+          "kg_per_mu": 1181.0,
+          "revenue_per_mu": 5905.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2019,
+          "age": 15,
+          "kg_per_mu": 1287.5,
+          "revenue_per_mu": 6437.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 16,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1262.0,
+        "min": 1218.0,
+        "max": 1317.5
+      },
+      "revenue_per_mu": {
+        "median": 6310.0,
+        "min": 6090.0,
+        "max": 6587.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O21",
+          "year": 2020,
+          "age": 16,
+          "kg_per_mu": 1218.0,
+          "revenue_per_mu": 6090.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O23",
+          "year": 2022,
+          "age": 16,
+          "kg_per_mu": 1317.5,
+          "revenue_per_mu": 6587.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2020,
+          "age": 16,
+          "kg_per_mu": 1262.0,
+          "revenue_per_mu": 6310.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 17,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1249.5,
+        "min": 1234.0,
+        "max": 1354.0
+      },
+      "revenue_per_mu": {
+        "median": 6235.0,
+        "min": 4062.0,
+        "max": 6462.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2019,
+          "age": 17,
+          "kg_per_mu": 1249.5,
+          "revenue_per_mu": 6247.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O21",
+          "year": 2021,
+          "age": 17,
+          "kg_per_mu": 1234.0,
+          "revenue_per_mu": 6170.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O23",
+          "year": 2023,
+          "age": 17,
+          "kg_per_mu": 1354.0,
+          "revenue_per_mu": 4062.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2019,
+          "age": 17,
+          "kg_per_mu": 1292.5,
+          "revenue_per_mu": 6462.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2021,
+          "age": 17,
+          "kg_per_mu": 1247.0,
+          "revenue_per_mu": 6235.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 18,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1243.0,
+        "min": 1207.0,
+        "max": 1340.5
+      },
+      "revenue_per_mu": {
+        "median": 6215.0,
+        "min": 6035.0,
+        "max": 6702.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2020,
+          "age": 18,
+          "kg_per_mu": 1243.0,
+          "revenue_per_mu": 6215.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O21",
+          "year": 2022,
+          "age": 18,
+          "kg_per_mu": 1207.0,
+          "revenue_per_mu": 6035.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O23",
+          "year": 2024,
+          "age": 18,
+          "kg_per_mu": 1300.0,
+          "revenue_per_mu": 6500.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2020,
+          "age": 18,
+          "kg_per_mu": 1340.5,
+          "revenue_per_mu": 6702.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2022,
+          "age": 18,
+          "kg_per_mu": 1234.0,
+          "revenue_per_mu": 6170.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 19,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1300.25,
+        "min": 1187.5,
+        "max": 1374.0
+      },
+      "revenue_per_mu": {
+        "median": 5187.25,
+        "min": 3562.5,
+        "max": 6870.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2021,
+          "age": 19,
+          "kg_per_mu": 1290.0,
+          "revenue_per_mu": 6450.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O21",
+          "year": 2023,
+          "age": 19,
+          "kg_per_mu": 1310.5,
+          "revenue_per_mu": 3931.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O23",
+          "year": 2025,
+          "age": 19,
+          "kg_per_mu": 1187.5,
+          "revenue_per_mu": 3562.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O25",
+          "year": 2019,
+          "age": 19,
+          "kg_per_mu": 1374.0,
+          "revenue_per_mu": 6870.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2021,
+          "age": 19,
+          "kg_per_mu": 1271.5,
+          "revenue_per_mu": 6357.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2023,
+          "age": 19,
+          "kg_per_mu": 1339.0,
+          "revenue_per_mu": 4017.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 20,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1304.0,
+        "min": 1272.5,
+        "max": 1342.0
+      },
+      "revenue_per_mu": {
+        "median": 6520.0,
+        "min": 6362.5,
+        "max": 6710.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2022,
+          "age": 20,
+          "kg_per_mu": 1272.5,
+          "revenue_per_mu": 6362.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O21",
+          "year": 2024,
+          "age": 20,
+          "kg_per_mu": 1342.0,
+          "revenue_per_mu": 6710.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O25",
+          "year": 2020,
+          "age": 20,
+          "kg_per_mu": 1304.0,
+          "revenue_per_mu": 6520.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2022,
+          "age": 20,
+          "kg_per_mu": 1280.0,
+          "revenue_per_mu": 6400.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2024,
+          "age": 20,
+          "kg_per_mu": 1333.5,
+          "revenue_per_mu": 6667.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 21,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1343.5,
+        "min": 1209.5,
+        "max": 1370.5
+      },
+      "revenue_per_mu": {
+        "median": 4030.5,
+        "min": 3628.5,
+        "max": 6852.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2023,
+          "age": 21,
+          "kg_per_mu": 1348.0,
+          "revenue_per_mu": 4044.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O21",
+          "year": 2025,
+          "age": 21,
+          "kg_per_mu": 1325.5,
+          "revenue_per_mu": 3976.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O25",
+          "year": 2021,
+          "age": 21,
+          "kg_per_mu": 1370.5,
+          "revenue_per_mu": 6852.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2023,
+          "age": 21,
+          "kg_per_mu": 1343.5,
+          "revenue_per_mu": 4030.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O29",
+          "year": 2025,
+          "age": 21,
+          "kg_per_mu": 1209.5,
+          "revenue_per_mu": 3628.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 22,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1364.0,
+        "min": 1195.0,
+        "max": 1369.5
+      },
+      "revenue_per_mu": {
+        "median": 6820.0,
+        "min": 5975.0,
+        "max": 6847.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2024,
+          "age": 22,
+          "kg_per_mu": 1369.5,
+          "revenue_per_mu": 6847.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O25",
+          "year": 2022,
+          "age": 22,
+          "kg_per_mu": 1195.0,
+          "revenue_per_mu": 5975.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2024,
+          "age": 22,
+          "kg_per_mu": 1364.0,
+          "revenue_per_mu": 6820.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 23,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1363.5,
+        "min": 1214.5,
+        "max": 1432.0
+      },
+      "revenue_per_mu": {
+        "median": 5490.0,
+        "min": 3643.5,
+        "max": 7160.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 1970.5,
+        "max": 2027.0
+      },
+      "analogs": [
+        {
+          "orchard": "O19",
+          "year": 2025,
+          "age": 23,
+          "kg_per_mu": 1270.0,
+          "revenue_per_mu": 3810.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O25",
+          "year": 2023,
+          "age": 23,
+          "kg_per_mu": 1327.5,
+          "revenue_per_mu": 3982.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O27",
+          "year": 2025,
+          "age": 23,
+          "kg_per_mu": 1214.5,
+          "revenue_per_mu": 3643.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-1",
+          "year": 2016,
+          "age": 23,
+          "kg_per_mu": 1432.0,
+          "revenue_per_mu": 7160.0,
+          "cost_per_mu": 2009.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2017,
+          "age": 23,
+          "kg_per_mu": 1403.5,
+          "revenue_per_mu": 7017.5,
+          "cost_per_mu": 1970.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2018,
+          "age": 23,
+          "kg_per_mu": 1399.5,
+          "revenue_per_mu": 6997.5,
+          "cost_per_mu": 2027.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 24,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1316.5,
+        "min": 1308.5,
+        "max": 1386.5
+      },
+      "revenue_per_mu": {
+        "median": 6582.5,
+        "min": 6542.5,
+        "max": 6932.5
+      },
+      "cost_per_mu": {
+        "median": 1999.5,
+        "min": 1982.5,
+        "max": 2000.5
+      },
+      "analogs": [
+        {
+          "orchard": "O25",
+          "year": 2024,
+          "age": 24,
+          "kg_per_mu": 1308.5,
+          "revenue_per_mu": 6542.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-1",
+          "year": 2017,
+          "age": 24,
+          "kg_per_mu": 1314.5,
+          "revenue_per_mu": 6572.5,
+          "cost_per_mu": 2000.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2018,
+          "age": 24,
+          "kg_per_mu": 1318.5,
+          "revenue_per_mu": 6592.5,
+          "cost_per_mu": 1999.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2019,
+          "age": 24,
+          "kg_per_mu": 1386.5,
+          "revenue_per_mu": 6932.5,
+          "cost_per_mu": 1982.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 25,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1362.0,
+        "min": 1302.0,
+        "max": 1407.0
+      },
+      "revenue_per_mu": {
+        "median": 6810.0,
+        "min": 3906.0,
+        "max": 7035.0
+      },
+      "cost_per_mu": {
+        "median": 2004.5,
+        "min": 1997.5,
+        "max": 2049.0
+      },
+      "analogs": [
+        {
+          "orchard": "O25",
+          "year": 2025,
+          "age": 25,
+          "kg_per_mu": 1302.0,
+          "revenue_per_mu": 3906.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-1",
+          "year": 2018,
+          "age": 25,
+          "kg_per_mu": 1407.0,
+          "revenue_per_mu": 7035.0,
+          "cost_per_mu": 2009.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2019,
+          "age": 25,
+          "kg_per_mu": 1399.0,
+          "revenue_per_mu": 6995.0,
+          "cost_per_mu": 2049.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2020,
+          "age": 25,
+          "kg_per_mu": 1325.0,
+          "revenue_per_mu": 6625.0,
+          "cost_per_mu": 1997.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 26,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1277.5,
+        "min": 1269.5,
+        "max": 1301.0
+      },
+      "revenue_per_mu": {
+        "median": 6387.5,
+        "min": 6347.5,
+        "max": 6505.0
+      },
+      "cost_per_mu": {
+        "median": 2003.5,
+        "min": 1996.0,
+        "max": 2035.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-east-old-1",
+          "year": 2019,
+          "age": 26,
+          "kg_per_mu": 1301.0,
+          "revenue_per_mu": 6505.0,
+          "cost_per_mu": 2035.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2020,
+          "age": 26,
+          "kg_per_mu": 1269.5,
+          "revenue_per_mu": 6347.5,
+          "cost_per_mu": 2003.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2021,
+          "age": 26,
+          "kg_per_mu": 1277.5,
+          "revenue_per_mu": 6387.5,
+          "cost_per_mu": 1996.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 27,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1305.0,
+        "min": 1292.5,
+        "max": 1364.0
+      },
+      "revenue_per_mu": {
+        "median": 6525.0,
+        "min": 6462.5,
+        "max": 6820.0
+      },
+      "cost_per_mu": {
+        "median": 2005.5,
+        "min": 1993.0,
+        "max": 2022.0
+      },
+      "analogs": [
+        {
+          "orchard": "X-east-old-1",
+          "year": 2020,
+          "age": 27,
+          "kg_per_mu": 1364.0,
+          "revenue_per_mu": 6820.0,
+          "cost_per_mu": 2005.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2021,
+          "age": 27,
+          "kg_per_mu": 1305.0,
+          "revenue_per_mu": 6525.0,
+          "cost_per_mu": 2022.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2022,
+          "age": 27,
+          "kg_per_mu": 1292.5,
+          "revenue_per_mu": 6462.5,
+          "cost_per_mu": 1993.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 28,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1315.0,
+        "min": 1312.5,
+        "max": 1343.0
+      },
+      "revenue_per_mu": {
+        "median": 6562.5,
+        "min": 4029.0,
+        "max": 6575.0
+      },
+      "cost_per_mu": {
+        "median": 2029.5,
+        "min": 1981.5,
+        "max": 2031.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-east-old-1",
+          "year": 2021,
+          "age": 28,
+          "kg_per_mu": 1315.0,
+          "revenue_per_mu": 6575.0,
+          "cost_per_mu": 1981.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2022,
+          "age": 28,
+          "kg_per_mu": 1312.5,
+          "revenue_per_mu": 6562.5,
+          "cost_per_mu": 2029.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2023,
+          "age": 28,
+          "kg_per_mu": 1343.0,
+          "revenue_per_mu": 4029.0,
+          "cost_per_mu": 2031.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "east",
+      "root": "old",
+      "scion": "S1",
+      "age": 29,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1277.0,
+        "min": 1199.0,
+        "max": 1325.0
+      },
+      "revenue_per_mu": {
+        "median": 5995.0,
+        "min": 3831.0,
+        "max": 6625.0
+      },
+      "cost_per_mu": {
+        "median": 1999.0,
+        "min": 1963.0,
+        "max": 2044.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-east-old-1",
+          "year": 2022,
+          "age": 29,
+          "kg_per_mu": 1325.0,
+          "revenue_per_mu": 6625.0,
+          "cost_per_mu": 2044.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-2",
+          "year": 2023,
+          "age": 29,
+          "kg_per_mu": 1277.0,
+          "revenue_per_mu": 3831.0,
+          "cost_per_mu": 1999.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-east-old-3",
+          "year": 2024,
+          "age": 29,
+          "kg_per_mu": 1199.0,
+          "revenue_per_mu": 5995.0,
+          "cost_per_mu": 1963.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S1",
+      "age": 0,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 7.5,
+        "min": 7.5,
+        "max": 7.5
+      },
+      "revenue_per_mu": {
+        "median": 37.5,
+        "min": 37.5,
+        "max": 37.5
+      },
+      "cost_per_mu": {
+        "median": 900.0,
+        "min": 900.0,
+        "max": 900.0
+      },
+      "analogs": [
+        {
+          "orchard": "O6",
+          "year": 2022,
+          "age": 0,
+          "kg_per_mu": 7.5,
+          "revenue_per_mu": 37.5,
+          "cost_per_mu": 900.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S1",
+      "age": 1,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 158.0,
+        "min": 158.0,
+        "max": 158.0
+      },
+      "revenue_per_mu": {
+        "median": 474.0,
+        "min": 474.0,
+        "max": 474.0
+      },
+      "cost_per_mu": {
+        "median": 955.0,
+        "min": 955.0,
+        "max": 955.0
+      },
+      "analogs": [
+        {
+          "orchard": "O6",
+          "year": 2023,
+          "age": 1,
+          "kg_per_mu": 158.0,
+          "revenue_per_mu": 474.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S1",
+      "age": 2,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 315.0,
+        "min": 315.0,
+        "max": 315.0
+      },
+      "revenue_per_mu": {
+        "median": 1575.0,
+        "min": 1575.0,
+        "max": 1575.0
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O6",
+          "year": 2024,
+          "age": 2,
+          "kg_per_mu": 315.0,
+          "revenue_per_mu": 1575.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S1",
+      "age": 3,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 450.5,
+        "min": 450.5,
+        "max": 450.5
+      },
+      "revenue_per_mu": {
+        "median": 1351.5,
+        "min": 1351.5,
+        "max": 1351.5
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O6",
+          "year": 2025,
+          "age": 3,
+          "kg_per_mu": 450.5,
+          "revenue_per_mu": 1351.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 0,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 46.0,
+        "min": 46.0,
+        "max": 46.0
+      },
+      "revenue_per_mu": {
+        "median": 230.0,
+        "min": 230.0,
+        "max": 230.0
+      },
+      "cost_per_mu": {
+        "median": 900.0,
+        "min": 900.0,
+        "max": 900.0
+      },
+      "analogs": [
+        {
+          "orchard": "O12",
+          "year": 2021,
+          "age": 0,
+          "kg_per_mu": 46.0,
+          "revenue_per_mu": 230.0,
+          "cost_per_mu": 900.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 1,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 177.0,
+        "min": 177.0,
+        "max": 177.0
+      },
+      "revenue_per_mu": {
+        "median": 885.0,
+        "min": 885.0,
+        "max": 885.0
+      },
+      "cost_per_mu": {
+        "median": 955.0,
+        "min": 955.0,
+        "max": 955.0
+      },
+      "analogs": [
+        {
+          "orchard": "O12",
+          "year": 2022,
+          "age": 1,
+          "kg_per_mu": 177.0,
+          "revenue_per_mu": 885.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 2,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 308.5,
+        "min": 308.5,
+        "max": 308.5
+      },
+      "revenue_per_mu": {
+        "median": 925.5,
+        "min": 925.5,
+        "max": 925.5
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O12",
+          "year": 2023,
+          "age": 2,
+          "kg_per_mu": 308.5,
+          "revenue_per_mu": 925.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 3,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 496.5,
+        "min": 495.0,
+        "max": 498.0
+      },
+      "revenue_per_mu": {
+        "median": 2482.5,
+        "min": 2475.0,
+        "max": 2490.0
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2019,
+          "age": 3,
+          "kg_per_mu": 498.0,
+          "revenue_per_mu": 2490.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O12",
+          "year": 2024,
+          "age": 3,
+          "kg_per_mu": 495.0,
+          "revenue_per_mu": 2475.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 4,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 582.5,
+        "min": 563.5,
+        "max": 601.5
+      },
+      "revenue_per_mu": {
+        "median": 2349.0,
+        "min": 1690.5,
+        "max": 3007.5
+      },
+      "cost_per_mu": {
+        "median": 1120.0,
+        "min": 1120.0,
+        "max": 1120.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2020,
+          "age": 4,
+          "kg_per_mu": 601.5,
+          "revenue_per_mu": 3007.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "O12",
+          "year": 2025,
+          "age": 4,
+          "kg_per_mu": 563.5,
+          "revenue_per_mu": 1690.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 5,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 765.5,
+        "min": 765.5,
+        "max": 765.5
+      },
+      "revenue_per_mu": {
+        "median": 3827.5,
+        "min": 3827.5,
+        "max": 3827.5
+      },
+      "cost_per_mu": {
+        "median": 1175.0,
+        "min": 1175.0,
+        "max": 1175.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2021,
+          "age": 5,
+          "kg_per_mu": 765.5,
+          "revenue_per_mu": 3827.5,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O12",
+          "year": 2026,
+          "age": 5,
+          "kg_per_mu": 724.5,
+          "revenue_per_mu": 3622.5
+        }
+      ]
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 6,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 907.5,
+        "min": 907.5,
+        "max": 907.5
+      },
+      "revenue_per_mu": {
+        "median": 4537.5,
+        "min": 4537.5,
+        "max": 4537.5
+      },
+      "cost_per_mu": {
+        "median": 1230.0,
+        "min": 1230.0,
+        "max": 1230.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2022,
+          "age": 6,
+          "kg_per_mu": 907.5,
+          "revenue_per_mu": 4537.5,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 7,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1069.5,
+        "min": 1069.5,
+        "max": 1069.5
+      },
+      "revenue_per_mu": {
+        "median": 3208.5,
+        "min": 3208.5,
+        "max": 3208.5
+      },
+      "cost_per_mu": {
+        "median": 1285.0,
+        "min": 1285.0,
+        "max": 1285.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2023,
+          "age": 7,
+          "kg_per_mu": 1069.5,
+          "revenue_per_mu": 3208.5,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 8,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1218.0,
+        "min": 1218.0,
+        "max": 1218.0
+      },
+      "revenue_per_mu": {
+        "median": 6090.0,
+        "min": 6090.0,
+        "max": 6090.0
+      },
+      "cost_per_mu": {
+        "median": 1340.0,
+        "min": 1340.0,
+        "max": 1340.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2024,
+          "age": 8,
+          "kg_per_mu": 1218.0,
+          "revenue_per_mu": 6090.0,
+          "cost_per_mu": 1340.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R1",
+      "scion": "S2",
+      "age": 9,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1353.0,
+        "min": 1353.0,
+        "max": 1353.0
+      },
+      "revenue_per_mu": {
+        "median": 4059.0,
+        "min": 4059.0,
+        "max": 4059.0
+      },
+      "cost_per_mu": {
+        "median": 1395.0,
+        "min": 1395.0,
+        "max": 1395.0
+      },
+      "analogs": [
+        {
+          "orchard": "O0",
+          "year": 2025,
+          "age": 9,
+          "kg_per_mu": 1353.0,
+          "revenue_per_mu": 4059.0,
+          "cost_per_mu": 1395.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 0,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 73.5,
+        "min": 73.5,
+        "max": 73.5
+      },
+      "revenue_per_mu": {
+        "median": 367.5,
+        "min": 367.5,
+        "max": 367.5
+      },
+      "cost_per_mu": {
+        "median": 900.0,
+        "min": 900.0,
+        "max": 900.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 73.5,
+          "revenue_per_mu": 367.5,
+          "cost_per_mu": 900.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 1,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 148.5,
+        "min": 148.5,
+        "max": 148.5
+      },
+      "revenue_per_mu": {
+        "median": 742.5,
+        "min": 742.5,
+        "max": 742.5
+      },
+      "cost_per_mu": {
+        "median": 955.0,
+        "min": 955.0,
+        "max": 955.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 148.5,
+          "revenue_per_mu": 742.5,
+          "cost_per_mu": 955.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 2,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 345.0,
+        "min": 345.0,
+        "max": 345.0
+      },
+      "revenue_per_mu": {
+        "median": 1725.0,
+        "min": 1725.0,
+        "max": 1725.0
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 345.0,
+          "revenue_per_mu": 1725.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 3,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 452.5,
+        "min": 452.5,
+        "max": 452.5
+      },
+      "revenue_per_mu": {
+        "median": 2262.5,
+        "min": 2262.5,
+        "max": 2262.5
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 452.5,
+          "revenue_per_mu": 2262.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 4,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 633.0,
+        "min": 633.0,
+        "max": 633.0
+      },
+      "revenue_per_mu": {
+        "median": 1899.0,
+        "min": 1899.0,
+        "max": 1899.0
+      },
+      "cost_per_mu": {
+        "median": 1120.0,
+        "min": 1120.0,
+        "max": 1120.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2023,
+          "age": 4,
+          "kg_per_mu": 633.0,
+          "revenue_per_mu": 1899.0,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 5,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 813.0,
+        "min": 813.0,
+        "max": 813.0
+      },
+      "revenue_per_mu": {
+        "median": 4065.0,
+        "min": 4065.0,
+        "max": 4065.0
+      },
+      "cost_per_mu": {
+        "median": 1175.0,
+        "min": 1175.0,
+        "max": 1175.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2024,
+          "age": 5,
+          "kg_per_mu": 813.0,
+          "revenue_per_mu": 4065.0,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S1",
+      "age": 6,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 882.0,
+        "min": 882.0,
+        "max": 882.0
+      },
+      "revenue_per_mu": {
+        "median": 2646.0,
+        "min": 2646.0,
+        "max": 2646.0
+      },
+      "cost_per_mu": {
+        "median": 1230.0,
+        "min": 1230.0,
+        "max": 1230.0
+      },
+      "analogs": [
+        {
+          "orchard": "O10",
+          "year": 2025,
+          "age": 6,
+          "kg_per_mu": 882.0,
+          "revenue_per_mu": 2646.0,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 0,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 23.0,
+        "min": 16.5,
+        "max": 28.5
+      },
+      "revenue_per_mu": {
+        "median": 115.0,
+        "min": 82.5,
+        "max": 142.5
+      },
+      "cost_per_mu": {
+        "median": 930.25,
+        "min": 900.0,
+        "max": 933.5
+      },
+      "analogs": [
+        {
+          "orchard": "O4",
+          "year": 2020,
+          "age": 0,
+          "kg_per_mu": 28.5,
+          "revenue_per_mu": 142.5,
+          "cost_per_mu": 900.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2017,
+          "age": 0,
+          "kg_per_mu": 17.5,
+          "revenue_per_mu": 87.5,
+          "cost_per_mu": 933.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2018,
+          "age": 0,
+          "kg_per_mu": 16.5,
+          "revenue_per_mu": 82.5,
+          "cost_per_mu": 933.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2019,
+          "age": 0,
+          "kg_per_mu": 28.5,
+          "revenue_per_mu": 142.5,
+          "cost_per_mu": 927.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 1,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 126.5,
+        "min": 98.5,
+        "max": 191.0
+      },
+      "revenue_per_mu": {
+        "median": 632.5,
+        "min": 492.5,
+        "max": 955.0
+      },
+      "cost_per_mu": {
+        "median": 993.0,
+        "min": 955.0,
+        "max": 1002.0
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 191.0,
+          "revenue_per_mu": 955.0,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "O4",
+          "year": 2021,
+          "age": 1,
+          "kg_per_mu": 98.5,
+          "revenue_per_mu": 492.5,
+          "cost_per_mu": 955.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2018,
+          "age": 1,
+          "kg_per_mu": 126.5,
+          "revenue_per_mu": 632.5,
+          "cost_per_mu": 1002.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 131.0,
+          "revenue_per_mu": 655.0,
+          "cost_per_mu": 1000.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2020,
+          "age": 1,
+          "kg_per_mu": 119.5,
+          "revenue_per_mu": 597.5,
+          "cost_per_mu": 993.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 2,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 312.0,
+        "min": 299.5,
+        "max": 353.0
+      },
+      "revenue_per_mu": {
+        "median": 1560.0,
+        "min": 1497.5,
+        "max": 1765.0
+      },
+      "cost_per_mu": {
+        "median": 1021.0,
+        "min": 1010.0,
+        "max": 1036.0
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 301.5,
+          "revenue_per_mu": 1507.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "O4",
+          "year": 2022,
+          "age": 2,
+          "kg_per_mu": 299.5,
+          "revenue_per_mu": 1497.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 312.0,
+          "revenue_per_mu": 1560.0,
+          "cost_per_mu": 1036.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 319.5,
+          "revenue_per_mu": 1597.5,
+          "cost_per_mu": 1021.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2021,
+          "age": 2,
+          "kg_per_mu": 353.0,
+          "revenue_per_mu": 1765.0,
+          "cost_per_mu": 1022.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 3,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 524.5,
+        "min": 472.0,
+        "max": 566.0
+      },
+      "revenue_per_mu": {
+        "median": 2622.5,
+        "min": 1441.5,
+        "max": 2830.0
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1052.0,
+        "max": 1079.0
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 472.0,
+          "revenue_per_mu": 2360.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O4",
+          "year": 2023,
+          "age": 3,
+          "kg_per_mu": 480.5,
+          "revenue_per_mu": 1441.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 566.0,
+          "revenue_per_mu": 2830.0,
+          "cost_per_mu": 1079.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 534.0,
+          "revenue_per_mu": 2670.0,
+          "cost_per_mu": 1052.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2022,
+          "age": 3,
+          "kg_per_mu": 524.5,
+          "revenue_per_mu": 2622.5,
+          "cost_per_mu": 1079.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 4,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 701.5,
+        "min": 632.5,
+        "max": 795.0
+      },
+      "revenue_per_mu": {
+        "median": 3207.5,
+        "min": 2104.5,
+        "max": 3975.0
+      },
+      "cost_per_mu": {
+        "median": 1120.0,
+        "min": 1100.5,
+        "max": 1131.5
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2022,
+          "age": 4,
+          "kg_per_mu": 632.5,
+          "revenue_per_mu": 3162.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "O4",
+          "year": 2024,
+          "age": 4,
+          "kg_per_mu": 641.5,
+          "revenue_per_mu": 3207.5,
+          "cost_per_mu": 1120.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2021,
+          "age": 4,
+          "kg_per_mu": 795.0,
+          "revenue_per_mu": 3975.0,
+          "cost_per_mu": 1100.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2022,
+          "age": 4,
+          "kg_per_mu": 733.0,
+          "revenue_per_mu": 3665.0,
+          "cost_per_mu": 1128.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2023,
+          "age": 4,
+          "kg_per_mu": 701.5,
+          "revenue_per_mu": 2104.5,
+          "cost_per_mu": 1131.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 5,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 980.0,
+        "min": 727.5,
+        "max": 1085.0
+      },
+      "revenue_per_mu": {
+        "median": 3045.0,
+        "min": 2182.5,
+        "max": 5425.0
+      },
+      "cost_per_mu": {
+        "median": 1175.0,
+        "min": 1166.0,
+        "max": 1177.0
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2023,
+          "age": 5,
+          "kg_per_mu": 805.0,
+          "revenue_per_mu": 2415.0,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "O4",
+          "year": 2025,
+          "age": 5,
+          "kg_per_mu": 727.5,
+          "revenue_per_mu": 2182.5,
+          "cost_per_mu": 1175.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2022,
+          "age": 5,
+          "kg_per_mu": 980.0,
+          "revenue_per_mu": 4900.0,
+          "cost_per_mu": 1173.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2023,
+          "age": 5,
+          "kg_per_mu": 1015.0,
+          "revenue_per_mu": 3045.0,
+          "cost_per_mu": 1166.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2024,
+          "age": 5,
+          "kg_per_mu": 1085.0,
+          "revenue_per_mu": 5425.0,
+          "cost_per_mu": 1177.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 6,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1198.0,
+        "min": 940.0,
+        "max": 1259.5
+      },
+      "revenue_per_mu": {
+        "median": 4239.25,
+        "min": 3691.5,
+        "max": 5827.5
+      },
+      "cost_per_mu": {
+        "median": 1230.25,
+        "min": 1224.0,
+        "max": 1232.5
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2024,
+          "age": 6,
+          "kg_per_mu": 940.0,
+          "revenue_per_mu": 4700.0,
+          "cost_per_mu": 1230.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-1",
+          "year": 2023,
+          "age": 6,
+          "kg_per_mu": 1230.5,
+          "revenue_per_mu": 3691.5,
+          "cost_per_mu": 1232.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-2",
+          "year": 2024,
+          "age": 6,
+          "kg_per_mu": 1165.5,
+          "revenue_per_mu": 5827.5,
+          "cost_per_mu": 1224.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-R2-S2-3",
+          "year": 2025,
+          "age": 6,
+          "kg_per_mu": 1259.5,
+          "revenue_per_mu": 3778.5,
+          "cost_per_mu": 1230.5,
+          "amended": false
+        }
+      ],
+      "in_transit": [
+        {
+          "orchard": "O4",
+          "year": 2026,
+          "age": 6,
+          "kg_per_mu": 944.5,
+          "revenue_per_mu": 4722.5
+        }
+      ]
+    },
+    {
+      "region": "hill",
+      "root": "R2",
+      "scion": "S2",
+      "age": 7,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1057.0,
+        "min": 1057.0,
+        "max": 1057.0
+      },
+      "revenue_per_mu": {
+        "median": 3171.0,
+        "min": 3171.0,
+        "max": 3171.0
+      },
+      "cost_per_mu": {
+        "median": 1285.0,
+        "min": 1285.0,
+        "max": 1285.0
+      },
+      "analogs": [
+        {
+          "orchard": "O16",
+          "year": 2025,
+          "age": 7,
+          "kg_per_mu": 1057.0,
+          "revenue_per_mu": 3171.0,
+          "cost_per_mu": 1285.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R3",
+      "scion": "S1",
+      "age": 1,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 215.5,
+        "min": 215.5,
+        "max": 215.5
+      },
+      "revenue_per_mu": {
+        "median": 1077.5,
+        "min": 1077.5,
+        "max": 1077.5
+      },
+      "cost_per_mu": {
+        "median": 955.0,
+        "min": 955.0,
+        "max": 955.0
+      },
+      "analogs": [
+        {
+          "orchard": "O2",
+          "year": 2019,
+          "age": 1,
+          "kg_per_mu": 215.5,
+          "revenue_per_mu": 1077.5,
+          "cost_per_mu": 955.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R3",
+      "scion": "S1",
+      "age": 2,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 358.5,
+        "min": 358.5,
+        "max": 358.5
+      },
+      "revenue_per_mu": {
+        "median": 1792.5,
+        "min": 1792.5,
+        "max": 1792.5
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O2",
+          "year": 2020,
+          "age": 2,
+          "kg_per_mu": 358.5,
+          "revenue_per_mu": 1792.5,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R3",
+      "scion": "S1",
+      "age": 3,
+      "supported": false,
+      "orchard_count": 2,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 443.5,
+        "min": 409.5,
+        "max": 477.5
+      },
+      "revenue_per_mu": {
+        "median": 2217.5,
+        "min": 2047.5,
+        "max": 2387.5
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O14",
+          "year": 2019,
+          "age": 3,
+          "kg_per_mu": 409.5,
+          "revenue_per_mu": 2047.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        },
+        {
+          "orchard": "O2",
+          "year": 2021,
+          "age": 3,
+          "kg_per_mu": 477.5,
+          "revenue_per_mu": 2387.5,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R3",
+      "scion": "S2",
+      "age": 2,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 374.0,
+        "min": 374.0,
+        "max": 374.0
+      },
+      "revenue_per_mu": {
+        "median": 1870.0,
+        "min": 1870.0,
+        "max": 1870.0
+      },
+      "cost_per_mu": {
+        "median": 1010.0,
+        "min": 1010.0,
+        "max": 1010.0
+      },
+      "analogs": [
+        {
+          "orchard": "O8",
+          "year": 2019,
+          "age": 2,
+          "kg_per_mu": 374.0,
+          "revenue_per_mu": 1870.0,
+          "cost_per_mu": 1010.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "R3",
+      "scion": "S2",
+      "age": 3,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 466.0,
+        "min": 466.0,
+        "max": 466.0
+      },
+      "revenue_per_mu": {
+        "median": 2330.0,
+        "min": 2330.0,
+        "max": 2330.0
+      },
+      "cost_per_mu": {
+        "median": 1065.0,
+        "min": 1065.0,
+        "max": 1065.0
+      },
+      "analogs": [
+        {
+          "orchard": "O8",
+          "year": 2020,
+          "age": 3,
+          "kg_per_mu": 466.0,
+          "revenue_per_mu": 2330.0,
+          "cost_per_mu": 1065.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 14,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1229.5,
+        "min": 1229.5,
+        "max": 1229.5
+      },
+      "revenue_per_mu": {
+        "median": 6147.5,
+        "min": 6147.5,
+        "max": 6147.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O22",
+          "year": 2019,
+          "age": 14,
+          "kg_per_mu": 1229.5,
+          "revenue_per_mu": 6147.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 15,
+      "supported": false,
+      "orchard_count": 1,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1289.0,
+        "min": 1289.0,
+        "max": 1289.0
+      },
+      "revenue_per_mu": {
+        "median": 6445.0,
+        "min": 6445.0,
+        "max": 6445.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O22",
+          "year": 2020,
+          "age": 15,
+          "kg_per_mu": 1289.0,
+          "revenue_per_mu": 6445.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 16,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1256.5,
+        "min": 1209.0,
+        "max": 1262.0
+      },
+      "revenue_per_mu": {
+        "median": 6282.5,
+        "min": 6045.0,
+        "max": 6310.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O20",
+          "year": 2019,
+          "age": 16,
+          "kg_per_mu": 1256.5,
+          "revenue_per_mu": 6282.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O22",
+          "year": 2021,
+          "age": 16,
+          "kg_per_mu": 1209.0,
+          "revenue_per_mu": 6045.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2019,
+          "age": 16,
+          "kg_per_mu": 1262.0,
+          "revenue_per_mu": 6310.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 17,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1219.5,
+        "min": 1195.5,
+        "max": 1359.5
+      },
+      "revenue_per_mu": {
+        "median": 6097.5,
+        "min": 5977.5,
+        "max": 6797.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O20",
+          "year": 2020,
+          "age": 17,
+          "kg_per_mu": 1359.5,
+          "revenue_per_mu": 6797.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O22",
+          "year": 2022,
+          "age": 17,
+          "kg_per_mu": 1219.5,
+          "revenue_per_mu": 6097.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2020,
+          "age": 17,
+          "kg_per_mu": 1195.5,
+          "revenue_per_mu": 5977.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 18,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1187.0,
+        "min": 1177.0,
+        "max": 1308.5
+      },
+      "revenue_per_mu": {
+        "median": 5892.5,
+        "min": 3561.0,
+        "max": 6542.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2019,
+          "age": 18,
+          "kg_per_mu": 1178.5,
+          "revenue_per_mu": 5892.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O20",
+          "year": 2021,
+          "age": 18,
+          "kg_per_mu": 1177.0,
+          "revenue_per_mu": 5885.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O22",
+          "year": 2023,
+          "age": 18,
+          "kg_per_mu": 1187.0,
+          "revenue_per_mu": 3561.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2019,
+          "age": 18,
+          "kg_per_mu": 1308.5,
+          "revenue_per_mu": 6542.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2021,
+          "age": 18,
+          "kg_per_mu": 1223.5,
+          "revenue_per_mu": 6117.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 19,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1310.5,
+        "min": 1203.5,
+        "max": 1355.0
+      },
+      "revenue_per_mu": {
+        "median": 6552.5,
+        "min": 6017.5,
+        "max": 6775.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2020,
+          "age": 19,
+          "kg_per_mu": 1352.0,
+          "revenue_per_mu": 6760.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O20",
+          "year": 2022,
+          "age": 19,
+          "kg_per_mu": 1276.5,
+          "revenue_per_mu": 6382.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O22",
+          "year": 2024,
+          "age": 19,
+          "kg_per_mu": 1203.5,
+          "revenue_per_mu": 6017.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2020,
+          "age": 19,
+          "kg_per_mu": 1355.0,
+          "revenue_per_mu": 6775.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2022,
+          "age": 19,
+          "kg_per_mu": 1310.5,
+          "revenue_per_mu": 6552.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 20,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1217.75,
+        "min": 1179.5,
+        "max": 1340.0
+      },
+      "revenue_per_mu": {
+        "median": 4874.75,
+        "min": 3538.5,
+        "max": 6700.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2021,
+          "age": 20,
+          "kg_per_mu": 1340.0,
+          "revenue_per_mu": 6700.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O20",
+          "year": 2023,
+          "age": 20,
+          "kg_per_mu": 1179.5,
+          "revenue_per_mu": 3538.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O22",
+          "year": 2025,
+          "age": 20,
+          "kg_per_mu": 1196.0,
+          "revenue_per_mu": 3588.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O24",
+          "year": 2019,
+          "age": 20,
+          "kg_per_mu": 1221.5,
+          "revenue_per_mu": 6107.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2021,
+          "age": 20,
+          "kg_per_mu": 1253.0,
+          "revenue_per_mu": 6265.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2023,
+          "age": 20,
+          "kg_per_mu": 1214.0,
+          "revenue_per_mu": 3642.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 21,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1260.0,
+        "min": 1221.0,
+        "max": 1298.0
+      },
+      "revenue_per_mu": {
+        "median": 6300.0,
+        "min": 6105.0,
+        "max": 6490.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2022,
+          "age": 21,
+          "kg_per_mu": 1282.0,
+          "revenue_per_mu": 6410.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O20",
+          "year": 2024,
+          "age": 21,
+          "kg_per_mu": 1298.0,
+          "revenue_per_mu": 6490.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O24",
+          "year": 2020,
+          "age": 21,
+          "kg_per_mu": 1260.0,
+          "revenue_per_mu": 6300.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2022,
+          "age": 21,
+          "kg_per_mu": 1240.0,
+          "revenue_per_mu": 6200.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2024,
+          "age": 21,
+          "kg_per_mu": 1221.0,
+          "revenue_per_mu": 6105.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 22,
+      "supported": true,
+      "orchard_count": 5,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1277.0,
+        "min": 1208.5,
+        "max": 1350.5
+      },
+      "revenue_per_mu": {
+        "median": 3879.0,
+        "min": 3625.5,
+        "max": 6270.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 2000.0,
+        "max": 2000.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2023,
+          "age": 22,
+          "kg_per_mu": 1277.0,
+          "revenue_per_mu": 3831.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O20",
+          "year": 2025,
+          "age": 22,
+          "kg_per_mu": 1293.0,
+          "revenue_per_mu": 3879.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O24",
+          "year": 2021,
+          "age": 22,
+          "kg_per_mu": 1254.0,
+          "revenue_per_mu": 6270.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2023,
+          "age": 22,
+          "kg_per_mu": 1350.5,
+          "revenue_per_mu": 4051.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O28",
+          "year": 2025,
+          "age": 22,
+          "kg_per_mu": 1208.5,
+          "revenue_per_mu": 3625.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 23,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1375.5,
+        "min": 1201.5,
+        "max": 1440.5
+      },
+      "revenue_per_mu": {
+        "median": 6877.5,
+        "min": 6007.5,
+        "max": 7202.5
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 1952.5,
+        "max": 2023.5
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2024,
+          "age": 23,
+          "kg_per_mu": 1336.5,
+          "revenue_per_mu": 6682.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O24",
+          "year": 2022,
+          "age": 23,
+          "kg_per_mu": 1201.5,
+          "revenue_per_mu": 6007.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2024,
+          "age": 23,
+          "kg_per_mu": 1342.0,
+          "revenue_per_mu": 6710.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2016,
+          "age": 23,
+          "kg_per_mu": 1440.5,
+          "revenue_per_mu": 7202.5,
+          "cost_per_mu": 2023.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2017,
+          "age": 23,
+          "kg_per_mu": 1409.0,
+          "revenue_per_mu": 7045.0,
+          "cost_per_mu": 1983.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2018,
+          "age": 23,
+          "kg_per_mu": 1413.0,
+          "revenue_per_mu": 7065.0,
+          "cost_per_mu": 1952.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 24,
+      "supported": true,
+      "orchard_count": 6,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1322.75,
+        "min": 1221.5,
+        "max": 1405.0
+      },
+      "revenue_per_mu": {
+        "median": 5322.75,
+        "min": 3664.5,
+        "max": 7025.0
+      },
+      "cost_per_mu": {
+        "median": 2000.0,
+        "min": 1952.0,
+        "max": 2016.0
+      },
+      "analogs": [
+        {
+          "orchard": "O18",
+          "year": 2025,
+          "age": 24,
+          "kg_per_mu": 1275.5,
+          "revenue_per_mu": 3826.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O24",
+          "year": 2023,
+          "age": 24,
+          "kg_per_mu": 1221.5,
+          "revenue_per_mu": 3664.5,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "O26",
+          "year": 2025,
+          "age": 24,
+          "kg_per_mu": 1291.0,
+          "revenue_per_mu": 3873.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2017,
+          "age": 24,
+          "kg_per_mu": 1354.5,
+          "revenue_per_mu": 6772.5,
+          "cost_per_mu": 2016.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2018,
+          "age": 24,
+          "kg_per_mu": 1367.0,
+          "revenue_per_mu": 6835.0,
+          "cost_per_mu": 1992.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2019,
+          "age": 24,
+          "kg_per_mu": 1405.0,
+          "revenue_per_mu": 7025.0,
+          "cost_per_mu": 1952.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 25,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1385.75,
+        "min": 1203.0,
+        "max": 1406.0
+      },
+      "revenue_per_mu": {
+        "median": 6928.75,
+        "min": 6015.0,
+        "max": 7030.0
+      },
+      "cost_per_mu": {
+        "median": 1994.0,
+        "min": 1954.5,
+        "max": 2017.5
+      },
+      "analogs": [
+        {
+          "orchard": "O24",
+          "year": 2024,
+          "age": 25,
+          "kg_per_mu": 1203.0,
+          "revenue_per_mu": 6015.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2018,
+          "age": 25,
+          "kg_per_mu": 1379.0,
+          "revenue_per_mu": 6895.0,
+          "cost_per_mu": 1954.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2019,
+          "age": 25,
+          "kg_per_mu": 1406.0,
+          "revenue_per_mu": 7030.0,
+          "cost_per_mu": 2017.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2020,
+          "age": 25,
+          "kg_per_mu": 1392.5,
+          "revenue_per_mu": 6962.5,
+          "cost_per_mu": 1988.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 26,
+      "supported": true,
+      "orchard_count": 4,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1355.0,
+        "min": 1211.0,
+        "max": 1370.5
+      },
+      "revenue_per_mu": {
+        "median": 6775.0,
+        "min": 3633.0,
+        "max": 6852.5
+      },
+      "cost_per_mu": {
+        "median": 2007.75,
+        "min": 2000.0,
+        "max": 2028.5
+      },
+      "analogs": [
+        {
+          "orchard": "O24",
+          "year": 2025,
+          "age": 26,
+          "kg_per_mu": 1211.0,
+          "revenue_per_mu": 3633.0,
+          "cost_per_mu": 2000.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2019,
+          "age": 26,
+          "kg_per_mu": 1352.5,
+          "revenue_per_mu": 6762.5,
+          "cost_per_mu": 2007.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2020,
+          "age": 26,
+          "kg_per_mu": 1370.5,
+          "revenue_per_mu": 6852.5,
+          "cost_per_mu": 2008.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2021,
+          "age": 26,
+          "kg_per_mu": 1357.5,
+          "revenue_per_mu": 6787.5,
+          "cost_per_mu": 2028.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 27,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1324.5,
+        "min": 1251.0,
+        "max": 1343.5
+      },
+      "revenue_per_mu": {
+        "median": 6622.5,
+        "min": 6255.0,
+        "max": 6717.5
+      },
+      "cost_per_mu": {
+        "median": 2018.0,
+        "min": 1959.0,
+        "max": 2040.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2020,
+          "age": 27,
+          "kg_per_mu": 1324.5,
+          "revenue_per_mu": 6622.5,
+          "cost_per_mu": 1959.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2021,
+          "age": 27,
+          "kg_per_mu": 1251.0,
+          "revenue_per_mu": 6255.0,
+          "cost_per_mu": 2018.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2022,
+          "age": 27,
+          "kg_per_mu": 1343.5,
+          "revenue_per_mu": 6717.5,
+          "cost_per_mu": 2040.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 28,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1327.0,
+        "min": 1297.5,
+        "max": 1345.5
+      },
+      "revenue_per_mu": {
+        "median": 6635.0,
+        "min": 3892.5,
+        "max": 6727.5
+      },
+      "cost_per_mu": {
+        "median": 2009.5,
+        "min": 1992.0,
+        "max": 2010.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2021,
+          "age": 28,
+          "kg_per_mu": 1345.5,
+          "revenue_per_mu": 6727.5,
+          "cost_per_mu": 2009.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2022,
+          "age": 28,
+          "kg_per_mu": 1327.0,
+          "revenue_per_mu": 6635.0,
+          "cost_per_mu": 2010.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2023,
+          "age": 28,
+          "kg_per_mu": 1297.5,
+          "revenue_per_mu": 3892.5,
+          "cost_per_mu": 1992.0,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    },
+    {
+      "region": "hill",
+      "root": "old",
+      "scion": "S1",
+      "age": 29,
+      "supported": true,
+      "orchard_count": 3,
+      "min_analogs": 3,
+      "kg_per_mu": {
+        "median": 1312.5,
+        "min": 1289.5,
+        "max": 1321.0
+      },
+      "revenue_per_mu": {
+        "median": 6447.5,
+        "min": 3963.0,
+        "max": 6562.5
+      },
+      "cost_per_mu": {
+        "median": 1981.5,
+        "min": 1955.0,
+        "max": 2030.5
+      },
+      "analogs": [
+        {
+          "orchard": "X-hill-old-1",
+          "year": 2022,
+          "age": 29,
+          "kg_per_mu": 1312.5,
+          "revenue_per_mu": 6562.5,
+          "cost_per_mu": 1955.0,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-2",
+          "year": 2023,
+          "age": 29,
+          "kg_per_mu": 1321.0,
+          "revenue_per_mu": 3963.0,
+          "cost_per_mu": 2030.5,
+          "amended": false
+        },
+        {
+          "orchard": "X-hill-old-3",
+          "year": 2024,
+          "age": 29,
+          "kg_per_mu": 1289.5,
+          "revenue_per_mu": 6447.5,
+          "cost_per_mu": 1981.5,
+          "amended": false
+        }
+      ],
+      "in_transit": []
+    }
+  ]
+}
